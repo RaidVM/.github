@@ -11,11 +11,9 @@ Firma zajmująca się hostingiem oraz obsługą serwerów Minecraft.
 
 Podziękowania dla Administrcaji, Supportu oraz wszystkich zaangażowanych w projekt:
 
-- <a href="https://discordapp.com/users/717337516830752788">CoronaCreeper#4884</a>
-- <a href="https://discordapp.com/users/452581229649461258">lon21#2121</a>
-- <a href="https://discordapp.com/users/442046464290586654">czerwony#2077</a>
-- <a href="https://discordapp.com/users/806084758139305994">okizek#6589</a>
-- <a href="https://discordapp.com/users/542324799989612564">Rysiekk#0001</a>
+- <a href="https://discordapp.com/users/970600480218681394">Raelx</a>
+- <a href="https://discordapp.com/users/717337516830752788">CoronaCreeper</a>
+- <a href="https://discordapp.com/users/452581229649461258">Lon21</a>
 
 Zaufało nam już ponad **15 YouTuberów** oraz **dziesiątki Użytkowników**! <br><br>
 
